@@ -2,8 +2,10 @@
 
 ## 1. Identificação do Grupo e do Projeto
 
+**Projeto:** Paw Dash <br></br>
 **Grupo:** BIGODE'S <br></br>
-**Projeto:** Paw Dash
+**Integrantes:** Cauê Taddeo, Henrique Diniz, Isabela Peçanha, João Agmont, Mariana Souza, Paulo Almeida, Reimar Filho e Thúlio Pinto
+
 
 ## 2. Síntese da Proposta
 
@@ -37,7 +39,7 @@
 </div>
 
 #### Descrição da Jogabilidade e Experiência do Jogador:
-*Nesta fase, a pata fará movimentos circulares simples e lentos, de modo a facilitar a conclusão desse nível. O objetivo dessa fase é introduzir as dinâmicas e as mecânicas básicas do jogo, como o sistema de recompensa e a destruição do alvo, para o tutor e para o gato.*
+*Nessa fase, a pata fará movimentos circulares simples e lentos, de modo a facilitar a conclusão desse nível. O objetivo dessa fase é introduzir as dinâmicas e as mecânicas básicas do jogo, como o sistema de recompensa e a destruição do alvo, para o tutor e para o gato.*
 
 
 ---
@@ -54,7 +56,7 @@
 </div>
 
 #### Descrição da Jogabilidade e Experiência do Jogador:
-*Nesta fase, a pata se move de forma mais imprevisível e complexa, não mais em um movimento circular, mas sim cruzando a tela e colidindo com as bordas, de modo a dinamizar a gameplay e por consequência dificultar o jogo.*
+*Nessa fase, a pata se move de forma mais imprevisível e complexa, não mais em um movimento circular, mas sim cruzando a tela e colidindo com as bordas, de modo a dinamizar a gameplay e por consequência dificultar o jogo.*
 
 
 ---
@@ -64,10 +66,14 @@
 **Situação:** Em Desenvolvimento
 
 #### Prévia:
-<!-- Adicione aqui a imagem ou link para o rascunho do level -->
+<div align="center">
+<sub>Prévia do Level 3</sub>
+<img src="assets/level3.png" width="100%">
+<sup>Fonte: Material produzido pelos autores (2025)</sup>
+</div>
 
 #### Descrição da Jogabilidade e Experiência do Jogador:
-<!-- Escreva aqui um parágrafo explicando a jogabilidade, experiência do jogador e relação com a progressão do jogo -->
+*Nessa fase, uma pata inicial se movimenta até ser acertada pelo jogador, assim que for acertada, a pata irá se dividir em outros dois novos alvos, tornando a dificuldade do nível consideravelmente maior para que os instintos do gato sejam treinados de diferentes formas.*
 
 ---
 
@@ -82,8 +88,21 @@
 <sup>Fonte: Material produzido pelos autores (2025)</sup>
 </div>
 
+<div align="center">
+<sub>Concept Art do Level 4 (1)</sub>
+<img src="assets/concept1.png" width="100%">
+<sup>Fonte: Material produzido pelos autores (2025)</sup>
+</div>
+
+<div align="center">
+<sub>Concept Art do Level 4 (2)</sub>
+<img src="assets/concept2.png" width="100%">
+<sup>Fonte: Material produzido pelos autores (2025)</sup>
+</div>
+
+
 #### Descrição da Jogabilidade e Experiência do Jogador:
-*Nesta fase, a ideia se assemelha à fase 1 e a fase 2. No entanto, o movimento do alvo é ditado pelo tutor, que pode controlar a pata da maneira que preferir a partir do controle que ficará no canto da tela de seu dispositivo móvel. Para essa fase, será necessário utilizar dois aparelhos eletrônicos: um para o gato e o outro para o tutor, conectados entre si, onde a tela do gato será transmitida para o seu tutor. Na tela do tutor, terão dois controladores: um para a direção da pata e outro para a velocidade da movimentação da pata.*
+*Nessa fase, a ideia se assemelha à fase 1 e a fase 2. No entanto, o movimento do alvo é ditado pelo tutor, que pode controlar a pata da maneira que preferir a partir do controle que ficará no canto da tela de seu dispositivo móvel. Para essa fase, será necessário utilizar dois aparelhos eletrônicos: um para o gato e o outro para o tutor, conectados entre si, onde a tela do gato será transmitida para o seu tutor. Na tela do tutor, terão dois controladores: um para a direção da pata e outro para a velocidade da movimentação da pata.*
 
 
 ---
@@ -100,7 +119,7 @@
 </div>
 
 #### Descrição da Jogabilidade e Experiência do Jogador:
-*Nesta fase, é introduzido um novo desafio: a pata se movimenta pelo cenário, passando por baixo de obstáculos, como pontes e elementos interativos, tornando mais difícil para o gato acertá-la. Essa mecânica exige mais precisão, paciência e estratégia, pois o jogador (Gato) deve aguardar o momento certo para tocar na pata. A experiência pretendida é aumentar a imersão e a sensação de caça e perseguição, estimulando o instinto felino de observação e reação rápida. Essa fase prepara o Gato para desafios ainda mais dinâmicos, onde a pata poderá mudar de direção, velocidade ou até desaparecer temporariamente, mantendo o engajamento e evolução contínua da jogabilidade.*
+*Nessa fase, é introduzido um novo desafio: a pata se movimenta pelo cenário, passando por baixo de obstáculos, como pontes e elementos interativos, tornando mais difícil para o gato acertá-la. Essa mecânica exige mais precisão, paciência e estratégia, pois o jogador (Gato) deve aguardar o momento certo para tocar na pata. A experiência pretendida é aumentar a imersão e a sensação de caça e perseguição, estimulando o instinto felino de observação e reação rápida. Essa fase prepara o Gato para desafios ainda mais dinâmicos, onde a pata poderá mudar de direção, velocidade ou até desaparecer temporariamente, mantendo o engajamento e evolução contínua da jogabilidade.*
 
 ---
 
