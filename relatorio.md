@@ -23,7 +23,7 @@
 
 *Os links abaixo contém, de forma organizada, o diagrama de cenas e as concepts arts do nosso jogo, que ajudam a entender cada level do nosso jogo e o restante da interface. Utilize-os como guia para visualizar de forma clara os detalhes de cada fase.*
 - Concept Art: https://www.figma.com/design/cVbJo00x8BpZQIv578cxQV/Figma-basics?node-id=1669-162202&p=f
-- Diagrama de Cenas: https://www.figma.com/design/cVbJo00x8BpZQIv578cxQV/Figma-basics?node-id=1669-162202&p=f
+- Diagrama de Cenas: https://www.figma.com/design/luhoZeSsvZhyLUqD8fNmj2/Figma-basics?node-id=1669-162202&m=dev&t=uKMiVoDUYkJhOkML-1
 
 ---
 
